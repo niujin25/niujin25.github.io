@@ -1,29 +1,26 @@
 ---
-title: "Simone"
+title: "Jin Niu"
 about:
   template: trestles
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+    # - icon: github
+    #  text: Github
+    #  href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/jin-niu-4111a5205/
+    # - icon: google
+    #  text: Google Scholar
+    #  href: https://scholar.google.com
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+I am interested in the various applied econometrics methods, public economics, and growth.
 
 ## Education
 
-Where I studied
+I obtained my B.S. in economics and statistics from the University of Michiga, Ann Arbor in 2023.
 
 ## Experience
 
-What I've done
+to be continued...

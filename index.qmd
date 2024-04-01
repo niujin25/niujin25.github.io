@@ -1,25 +1,17 @@
 ---
-title: "Simone"
+title: "Jin Niu"
 about:
   template: jolla
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/jin-niu-4111a5205/
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+I am a Ph.D. student in economics at Brown University.
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
-
-Please feel free to get in touch!
+You can reach me at jin_niu at brown dot edu
