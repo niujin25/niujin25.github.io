@@ -1,5 +1,5 @@
 ---
-title: "Longitudinal Position and Cancer Risk in the United States Revisited"
+title: "[Longitudinal Position and Cancer Risk in the United States Revisited](https://pubmed.ncbi.nlm.nih.gov/38284880/)"
 author: 
   - Jin Niu
   - Charlotte Brown
@@ -9,6 +9,4 @@ author:
 date: "Februart 07, 2024"
 ---
 
-[Link to paper.](https://pubmed.ncbi.nlm.nih.gov/38284880/)
-
-Could include a photo, or links, or anything at all!
+The debate over daylight saving time (DST) has surged, with interests in the effects of sunlight exposure on health. Prior studies simulated DST and standard time conditions by analyzing different locations within time zones and neighboring areas across time zone borders. We analyzed cancer incidence rates from various longitudinal positions within time zones and at time zone borders in the contiguous United States. Using data from State Cancer Profiles (2016–2020), we analyzed total cancer of 19 types and specific rates for eight cancers, adjusted for age and includes all demographics. log-linear regression is used to replicate a previous study, and spatial regression models are employed to explore discontinuities at borders. Cancer rate differences lack statistical significance within time zones and near borders for total cancer and most individual cancers. Exceptions included breast, prostate, and liver and bile duct cancers, which exhibited significant relationships with relative position at the 95% significance level. Breast and liver and bile duct cancers saw decreases, while prostate cancer incidence increased from west to east within time zones. Relative position does not have a significant impact on cancer incidence, hence cancer development in general. Isolated exceptions may warrant further investigation as more data become available. Our findings challenge prior research, revealing numerous inconsistencies. These disparities urge a reconsideration of the potential disparities in human health associated with DST and standard time. They offer insights contribute to the ongoing discussion surrounding the retention or abandonment of DST.

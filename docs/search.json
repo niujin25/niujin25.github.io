@@ -23,16 +23,16 @@
   {
     "objectID": "research/paper-1.html",
     "href": "research/paper-1.html",
-    "title": "My First Paper",
+    "title": "Longitudinal Position and Cancer Risk in the United States Revisited",
     "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "The debate over daylight saving time (DST) has surged, with interests in the effects of sunlight exposure on health. Prior studies simulated DST and standard time conditions by analyzing different locations within time zones and neighboring areas across time zone borders. We analyzed cancer incidence rates from various longitudinal positions within time zones and at time zone borders in the contiguous United States. Using data from State Cancer Profiles (2016–2020), we analyzed total cancer of 19 types and specific rates for eight cancers, adjusted for age and includes all demographics. log-linear regression is used to replicate a previous study, and spatial regression models are employed to explore discontinuities at borders. Cancer rate differences lack statistical significance within time zones and near borders for total cancer and most individual cancers. Exceptions included breast, prostate, and liver and bile duct cancers, which exhibited significant relationships with relative position at the 95% significance level. Breast and liver and bile duct cancers saw decreases, while prostate cancer incidence increased from west to east within time zones. Relative position does not have a significant impact on cancer incidence, hence cancer development in general. Isolated exceptions may warrant further investigation as more data become available. Our findings challenge prior research, revealing numerous inconsistencies. These disparities urge a reconsideration of the potential disparities in human health associated with DST and standard time. They offer insights contribute to the ongoing discussion surrounding the retention or abandonment of DST."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nJin Niu\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Position and Cancer Risk in the United States Revisited\n\n\n\n\n\n\n\n\n\n\n\nFeb 7, 2024\n\n\nJin Niu, Charlotte Brown, Michael Law, Justin A Colacino, Ya’acov Ritov\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html",
@@ -46,6 +46,6 @@
     "href": "index.html",
     "title": "Jin Niu",
     "section": "",
-    "text": "I am a Ph.D. student in economics at Brown University.\nYou can reach me at jin_niu at brown dot edu"
+    "text": "I am a Ph.D. student in economics at Brown University.\nContact me: jin_niu at brown dot edu"
   }
 ]
