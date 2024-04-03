@@ -1,6 +1,6 @@
 ---
 title: "My First Project"
-author: Simone
+author: Jin Niu
 date: "February 28, 2024"
 ---
 
