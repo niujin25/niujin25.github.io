@@ -1,5 +1,5 @@
 ---
-title: "Jin Niu"
+title: "Jin Niu  牛津"
 about:
   template: marquee
   image: newport.jpg
