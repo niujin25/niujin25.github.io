@@ -3,5 +3,7 @@ title: "Observing Lockdown from the Outer Space"
 author: Jin Niu
 date: "April 8, 2023"
 ---
-[Full Text]
+
 I examine how nighttime lights captured by satellites respond to the government-enforced lockdown policies during the COVID-19 pandemic in 2020. Milan, Italy is chosen as the treatment unit, and distributional synthetic control is used with nine control units to construct counterfactual Milan supposing it had not gone through any lockdown in 2020. I find there is a difference in night light luminosity between treated Milan and counterfactual Milan, but this difference is not significant from a placebo permutation test. After conducting similar analysis on GDP per capita for Italy with three control countries, I find no evidence suggesting the lockdown policy had a significant effect on GDP per capita. The findings reveal that during the global pandemic, the government-enforced lockdown policy in Italy did not have a considerable impact on the night light luminosity, which aligns with the economic outcome when compared to regions without such enforced policies.
+
+[Full text](../docs/Niu_Jin_EconHonorsThesis_2023.pdf)

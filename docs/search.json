@@ -11,14 +11,14 @@
     "href": "about.html#education",
     "title": "Jin Niu",
     "section": "Education",
-    "text": "Education\nI obtained my B.S. in economics and statistics from the University of Michiga, Ann Arbor in 2023."
+    "text": "Education\n\nBrown University | Providence, RI\nPhD in Economics | August 2023 - present\n\n\nUniversity of Michigan | Ann Arbor, MI\nB.S in Economics & Statistics, Mathematics | Sept 2019 - May 2023"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "Jin Niu",
     "section": "Experience",
-    "text": "Experience\nto be continued…"
+    "text": "Experience\nI was a undergraduate research assistant at the University of Michigan, Ann Arbor, for\n\nFlorian Gunsilius\nYa’acov Ritov"
   },
   {
     "objectID": "research/paper-1.html",
@@ -32,20 +32,20 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nJin Niu\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Position and Cancer Risk in the United States Revisited\n\n\n\n\n\n\n\n\n\n\n\nFeb 7, 2024\n\n\nJin Niu, Charlotte Brown, Michael Law, Justin A Colacino, Ya’acov Ritov\n\n\n\n\n\n\nNo matching items"
+    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObserving Lockdown from the Outer Space\n\n\n\n\n\n\n\n\n\n\n\nApr 8, 2023\n\n\nJin Niu\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Position and Cancer Risk in the United States Revisited\n\n\n\n\n\n\n\n\n\n\n\nFeb 7, 2024\n\n\nJin Niu, Charlotte Brown, Michael Law, Justin A Colacino, Ya’acov Ritov\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html",
     "href": "research/project-1.html",
-    "title": "My First Project",
+    "title": "Observing Lockdown from the Outer Space",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "I examine how nighttime lights captured by satellites respond to the government-enforced lockdown policies during the COVID-19 pandemic in 2020. Milan, Italy is chosen as the treatment unit, and distributional synthetic control is used with nine control units to construct counterfactual Milan supposing it had not gone through any lockdown in 2020. I find there is a difference in night light luminosity between treated Milan and counterfactual Milan, but this difference is not significant from a placebo permutation test. After conducting similar analysis on GDP per capita for Italy with three control countries, I find no evidence suggesting the lockdown policy had a significant effect on GDP per capita. The findings reveal that during the global pandemic, the government-enforced lockdown policy in Italy did not have a considerable impact on the night light luminosity, which aligns with the economic outcome when compared to regions without such enforced policies.\nFull text"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jin Niu",
     "section": "",
-    "text": "I am a Ph.D. student in economics at Brown University.\nContact me: jin_niu at brown dot edu"
+    "text": "I am a Ph.D. student in economics at Brown University.\nContact me: jin_niu [at] brown [dot] edu"
   }
 ]

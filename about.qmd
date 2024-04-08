@@ -1,8 +1,10 @@
 ---
 title: "Jin Niu"
 about:
-  template: trestles
-  image: profile.jpg
+  template: marquee
+  image: newport.jpg
+  # image-width: 40em
+  image-shape: rounded
   links:
     # - icon: github
     #  text: Github
@@ -19,8 +21,17 @@ I am interested in the various applied econometrics methods, public economics, a
 
 ## Education
 
-I obtained my B.S. in economics and statistics from the University of Michiga, Ann Arbor in 2023.
+##### Brown University | Providence, RI
+PhD in Economics | August 2023 - present
+
+
+##### University of Michigan | Ann Arbor, MI
+B.S in Economics & Statistics, Mathematics | Sept 2019 - May 2023
+
 
 ## Experience
 
-to be continued...
+I was a undergraduate research assistant at the University of Michigan, Ann Arbor, for
+
+- Florian Gunsilius
+- Ya'acov Ritov
