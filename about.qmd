@@ -17,7 +17,7 @@ about:
     #  href: https://scholar.google.com
 ---
 
-I am interested in the various applied econometrics methods, public economics, and growth.
+I am interested in applied econometrics methods, urban, and public economics.
 
 ## Education
 
@@ -31,7 +31,13 @@ B.S in Economics & Statistics, Mathematics | September 2019 - May 2023
 
 ## Experience
 
-I was a undergraduate research assistant at the University of Michigan, Ann Arbor, for
+Have been a teaching assistant at Brown for
+
+- Mathematical Econometrics (EC1630)
+- International Trade (EC1540)
+
+Was a undergraduate research assistant at the University of Michigan, Ann Arbor, for
 
 - Florian Gunsilius
 - Ya'acov Ritov
+
