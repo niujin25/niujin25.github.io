@@ -17,7 +17,7 @@ about:
     #  href: https://scholar.google.com
 ---
 
-I am interested in applied econometrics methods, urban, and public economics.
+I am interested in applied econometrics, urban, and public economics.
 
 ## Education
 
@@ -35,6 +35,7 @@ Have been a teaching assistant at Brown for
 
 - Mathematical Econometrics (EC1630)
 - International Trade (EC1540)
+- Environmental Economics (EC1050)
 
 Was a undergraduate research assistant at the University of Michigan, Ann Arbor, for
 
