@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Jin Niu 牛津",
     "section": "",
-    "text": "I am interested in the various applied econometrics methods, public economics, and growth."
+    "text": "I am interested in applied econometrics, urban, and public economics."
   },
   {
     "objectID": "about.html#education",
@@ -18,7 +18,7 @@
     "href": "about.html#experience",
     "title": "Jin Niu 牛津",
     "section": "Experience",
-    "text": "Experience\nI was a undergraduate research assistant at the University of Michigan, Ann Arbor, for\n\nFlorian Gunsilius\nYa’acov Ritov"
+    "text": "Experience\nHave been a teaching assistant at Brown for\n\nMathematical Econometrics (EC1630)\nInternational Trade (EC1540)\nEnvironmental Economics (EC1050)\n\nWas a undergraduate research assistant at the University of Michigan, Ann Arbor, for\n\nFlorian Gunsilius\nYa’acov Ritov"
   },
   {
     "objectID": "research/paper-1.html",
@@ -28,13 +28,6 @@
     "text": "The debate over daylight saving time (DST) has surged, with interests in the effects of sunlight exposure on health. Prior studies simulated DST and standard time conditions by analyzing different locations within time zones and neighboring areas across time zone borders. We analyzed cancer incidence rates from various longitudinal positions within time zones and at time zone borders in the contiguous United States. Using data from State Cancer Profiles (2016–2020), we analyzed total cancer of 19 types and specific rates for eight cancers, adjusted for age and includes all demographics. log-linear regression is used to replicate a previous study, and spatial regression models are employed to explore discontinuities at borders. Cancer rate differences lack statistical significance within time zones and near borders for total cancer and most individual cancers. Exceptions included breast, prostate, and liver and bile duct cancers, which exhibited significant relationships with relative position at the 95% significance level. Breast and liver and bile duct cancers saw decreases, while prostate cancer incidence increased from west to east within time zones. Relative position does not have a significant impact on cancer incidence, hence cancer development in general. Isolated exceptions may warrant further investigation as more data become available. Our findings challenge prior research, revealing numerous inconsistencies. These disparities urge a reconsideration of the potential disparities in human health associated with DST and standard time. They offer insights contribute to the ongoing discussion surrounding the retention or abandonment of DST."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObserving Lockdown from the Outer Space\n\n\n\n\n\n\n\n\n\n\n\nApr 8, 2023\n\n\nJin Niu\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Position and Cancer Risk in the United States Revisited\n\n\n\n\n\n\n\n\n\n\n\nFeb 7, 2024\n\n\nJin Niu, Charlotte Brown, Michael Law, Justin A Colacino, Ya’acov Ritov\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "research/project-1.html",
     "href": "research/project-1.html",
     "title": "Observing Lockdown from the Outer Space",
@@ -42,10 +35,24 @@
     "text": "I examine how nighttime lights captured by satellites respond to the government-enforced lockdown policies during the COVID-19 pandemic in 2020. Milan, Italy is chosen as the treatment unit, and distributional synthetic control is used with nine control units to construct counterfactual Milan supposing it had not gone through any lockdown in 2020. I find there is a difference in night light luminosity between treated Milan and counterfactual Milan, but this difference is not significant from a placebo permutation test. After conducting similar analysis on GDP per capita for Italy with three control countries, I find no evidence suggesting the lockdown policy had a significant effect on GDP per capita. The findings reveal that during the global pandemic, the government-enforced lockdown policy in Italy did not have a considerable impact on the night light luminosity, which aligns with the economic outcome when compared to regions without such enforced policies.\nFull text"
   },
   {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEstimating Internal Migration in China\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\nJin Niu\n\n\n\n\n\n\n\n\n\n\n\n\nObserving Lockdown from the Outer Space\n\n\n\n\n\n\n\n\n\n\n\nApr 8, 2023\n\n\nJin Niu\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Position and Cancer Risk in the United States Revisited\n\n\n\n\n\n\n\n\n\n\n\nFeb 7, 2024\n\n\nJin Niu, Charlotte Brown, Michael Law, Justin A Colacino, Ya’acov Ritov\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/paper-2.html",
+    "href": "research/paper-2.html",
+    "title": "Estimating Internal Migration in China",
+    "section": "",
+    "text": "Hukou, the household registration system in mainland China, has functioned as a barrier to migration for its residents.\nConverting the hukou type is only possible under few instances. As a result, internal migration in China has met with great friction. It wasn't until 2014 that a reform relaxed migration restrictions among small to medium-sized cities. This period of strict migration control takes place in parallel with the rapid economic development in China. In this paper, I study the welfare impact of the hukou system, quantifying the productivity/welfare difference due to this strict migration restriction. I construct a quantitative spatial model, and use data after the reform to estimate the friction parameter. I then use it to construct the counterfactual scenario that tries to answer the question: how much welfare is lost?\n[]: Full text"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jin Niu",
     "section": "",
-    "text": "I am a Ph.D. student in economics at Brown University.\nContact me: jin_niu [at] brown [dot] edu"
+    "text": "I am a Ph.D. student studying economics at Brown University. Test\nContact me: jin_niu [at] brown [dot] edu"
   }
 ]
