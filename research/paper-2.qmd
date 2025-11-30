@@ -1,10 +1,8 @@
 ---
 title: "Estimating Internal Migration in China"
 author: Jin Niu
-date: "Dec, 2025"
+date: "Dec 5th, 2025"
 ---
 
-    Hukou, the household registration system in mainland China, has functioned as a barrier to migration for its residents.
-    Converting the hukou type is only possible under few instances. As a result, internal migration in China has met with great friction. It wasn't until 2014 that a reform relaxed migration restrictions among small to medium-sized cities. This period of strict migration control takes place in parallel with the rapid economic development in China. In this paper, I study the welfare impact of the hukou system, quantifying the productivity/welfare difference due to this strict migration restriction. I construct a quantitative spatial model, and use data after the reform to estimate the friction parameter. I then use it to construct the counterfactual scenario that tries to answer the question: how much welfare is lost?
-
-[]: [Full text](../docs/Niu_Jin_EconHonorsThesis_2023.pdf)
+Hukou, the household registration system in mainland China, has functioned as a barrier to migration for its residents.
+Converting the hukou type is only possible under few instances. As a result, internal migration in China has met with great friction. It wasn't until 2014 that a reform relaxed migration restrictions among small to medium-sized cities. This period of strict migration control takes place in parallel with the rapid economic development in China. In this paper, I study the welfare impact of the hukou system, quantifying the productivity/welfare difference due to this strict migration restriction. I construct a quantitative spatial model, and use data after the reform to estimate the friction parameter. I then use it to construct the counterfactual scenario that tries to answer the question: how much welfare is lost?
