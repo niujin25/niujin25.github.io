@@ -11,7 +11,7 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: docs/cv.pdf
+      - href: CV_Niu_2026.pdf
         text: CV
 
 format:
