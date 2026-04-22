@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Home"
+  title: "Jin Niu, Brown University"
   favicon: favicon.png
   navbar:
     left:
