@@ -12,9 +12,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jin-niu-4111a5205/
-    # - icon: google
-    #  text: Google Scholar
-    #  href: https://scholar.google.com
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=C0kCsrgAAAAJ
 ---
 
 I am interested in applied econometrics, urban, and public economics.

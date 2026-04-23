@@ -293,6 +293,18 @@ Jin Niu, Charlotte Brown, Michael Law, Justin A Colacino, Ya’acov Ritov
 No matching items
 </div>
 </div></main> <!-- /main -->
+<!-- copy-on-click for my email -->
+<script>
+document.querySelectorAll('.copy-text').forEach(el => {
+  el.addEventListener('click', () => {
+    const text = el.dataset.copy || el.textContent;
+    navigator.clipboard.writeText(text).then(() => {
+      el.classList.add('copied');
+      setTimeout(() => el.classList.remove('copied'), 2000);
+    });
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

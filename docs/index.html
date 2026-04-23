@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
 </header><main class="content" id="quarto-document-content">
 <p>Hi! I am a Ph.D.&nbsp;student studying economics at <a href="https://economics.brown.edu/">Brown University</a>. I finished my undergraduate studies at the <a href="https://umich.edu/">Univeristy of Michigan, Ann Arbor</a>, where I majored in economics, statistics, and minored in math.</p>
 <p>My research interests include applied econometrics, urban economics, and public economics.</p>
-<p>Contact me: jin_niu [at] brown [dot] edu</p>
+<p>Contact me: <span class="copy-text" data-copy="jin_niu@brown.edu" title="Click to copy"> jin_niu [at] brown [dot] edu </span></p>
 
 
 </main> 
@@ -135,13 +135,25 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
   </a>
-  <a href="https://scholar.google.com" class="about-link" rel="" target="">
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=C0kCsrgAAAAJ" class="about-link" rel="" target="">
     <i class="bi bi-google"></i>
      <span class="about-link-text">Google Scholar</span>
   </a>
 </div>
 </div>
  <!-- /main -->
+<!-- copy-on-click for my email -->
+<script>
+document.querySelectorAll('.copy-text').forEach(el => {
+  el.addEventListener('click', () => {
+    const text = el.dataset.copy || el.textContent;
+    navigator.clipboard.writeText(text).then(() => {
+      el.classList.add('copied');
+      setTimeout(() => el.classList.remove('copied'), 2000);
+    });
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
