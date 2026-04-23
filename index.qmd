@@ -12,9 +12,9 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=C0kCsrgAAAAJ
 ---
 
-Hi! I am a Ph.D. student studying economics at [Brown University](https://economics.brown.edu/). I finished my undergraduate studies at the [Univeristy of Michigan, Ann Arbor](https://umich.edu/), where I majored in economics, statistics, and minored in math. 
+Hi! I am a Ph.D. student studying Economics at [Brown University](https://economics.brown.edu/). I finished my undergraduate studies at the [Univeristy of Michigan, Ann Arbor](https://umich.edu/), where I majored in economics, statistics, and minored in math. 
 
-My research interests include applied econometrics, urban economics, and public economics.
+My research interests are applied econometrics, urban economics, and public economics.
 
 Contact me:
 <span class="copy-text" data-copy="jin_niu@brown.edu" title="Click to copy">
